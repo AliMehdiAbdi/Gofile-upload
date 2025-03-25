@@ -1,4 +1,4 @@
-# 📤 Gofile Uploader CLI
+# 📤 Gofile Upload
 
 A modern terminal-based file uploader for [Gofile.io](https://gofile.io) with progress tracking and beautiful output.
 
