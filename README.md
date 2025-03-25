@@ -19,8 +19,8 @@ A modern terminal-based file uploader for [Gofile.io](https://gofile.io) with pr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/gofile-uploader.git
-cd gofile-uploader
+git clone https://github.com/AliMehdiAbdi/Gofile-upload.git
+cd Gofile-upload
 ```
 
 2. **Install dependencies**
@@ -32,12 +32,12 @@ pip install -r requirements.txt
 
 ### Basic Upload
 ```bash
-python gofile_uploader.py file.txt
+python gofile.py file.txt
 ```
 
 ### Upload Multiple Files/Folders
 ```bash
-python gofile_uploader.py file1.txt file2.txt my_folder/
+python gofile.py file1.txt file2.txt my_folder/
 ```
 
 ## ⚙️ Configuration
